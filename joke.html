@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Witze-App</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="manifest" href="/manifest/manifest.webmanifest">
+    <link rel="shortcut icon" href="/manifest/icon-512x512.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/manifest/icon-512x512.png">
+</head>
+
+<body onload="getJoke()">
+    
+    
+    <div class="navbar">
+        Witze-App
+    </div>
+
+    <div class="startpage" >
+        <p id="joke"></p>
+        <p id="answer"></p>
+
+            <button class="buttonPair" id="button1">"Keine Ahnung"</button>
+            <button class="buttonPair" id="button2" onclick="getJoke()">Kenn ich schon!</button>
+    </div>
+
+    <script src="/js/script.js"></script>
+</body>
+</html>
