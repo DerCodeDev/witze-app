@@ -3,7 +3,7 @@ let answerField = document.getElementById("answer")
 let button1 = document.getElementById("button1")
 let button2 = document.getElementById("button2")
 
-const URL = "https://v2.jokeapi.dev/joke/Any?lang=de"
+const URL = "https://v2.jokeapi.dev/joke/Any?lang=de&type=twopart"
 
 
 function clickStartButton() {
