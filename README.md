@@ -13,5 +13,5 @@ Live Demo: https://cheery-malabi-b2ed4d.netlify.app
 
 ![App Screenshot](https://i.ibb.co/tLmhHSN/Screenshot-2.png)
 
-![App Screenshot](https://i.ibb.co/G5XkRXK/Screenshot-3.png)
+![App Screenshot](https://i.imgur.com/zQXSY7B.png)
 
